@@ -1,7 +1,7 @@
 # Blood Group Detection Using Fingerprint
 
 ## About the Project
-This project focuses on predicting a person’s blood group without collecting blood samples.  
+This project focuses on predicting a person’s blood group without collecting blood samples.
 Instead, biometric fingerprint images are used along with deep learning techniques to perform
 non-invasive blood group classification.
 
@@ -24,17 +24,18 @@ and image processing in healthcare-related domains.
 ---
 
 ## Tools and Technologies
-- Python  
-- Google Colab  
-- NumPy  
-- Convolutional Neural Networks (CNN)  
-- TensorFlow / Keras  
+- Python
+- Google Colab
+- NumPy
+- Convolutional Neural Networks (CNN)
+- TensorFlow / Keras
 
 ---
 
 ## Dataset
-The fingerprint dataset used in this project was sourced from Kaggle.  
-Due to dataset size and licensing constraints, the dataset is **not included** in this repository.
+The fingerprint dataset used in this project was sourced from Kaggle.
+Due to dataset size and licensing constraints, the dataset is **not included**
+in this repository.
 
 ---
 
@@ -42,11 +43,13 @@ Due to dataset size and licensing constraints, the dataset is **not included** i
 - Training Accuracy: ~95%
 - Validation Accuracy: ~87%
 
+![Model Accuracy](model_accuracy.png)
+
 ---
 
 ## Note
-This project was developed for **academic and experimental purposes only** and is not intended
-for real-world medical diagnosis.
+This project was developed for **academic and experimental purposes only**
+and is not intended for real-world medical diagnosis.
 
 ---
 
