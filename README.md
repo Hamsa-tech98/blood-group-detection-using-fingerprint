@@ -40,10 +40,10 @@ in this repository.
 ---
 
 ## Model Accuracy
-- Training Accuracy: ~95%
-- Validation Accuracy: ~87%
+The following graph shows the training and validation accuracy of the CNN model
+across multiple epochs.
 
-![Model Accuracy](model_accuracy.png)
+![Model Accuracy](Imag_model.jpeg)
 
 ---
 
